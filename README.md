@@ -1,4 +1,4 @@
-#📌 4. GraphQL API – Catálogo de Livros/Filmes
+# 📌 4. GraphQL API – Catálogo de Livros/Filmes
 
 API para consulta de filmes/livros com GraphQL usando Java e DGS Framework. Permite consultas flexíveis e relacionamentos com filtros dinâmicos.
 
